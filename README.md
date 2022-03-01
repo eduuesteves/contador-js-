@@ -1,4 +1,9 @@
-# Count with javascript
-Contador simples e dinâmico em JavaScript
+# Count with javascript 🏆
 
-Um contador simples em javascript, css e html
+## Welcome! 👋
+
+Contador simples e dinâmico com JavaScript, css e html;
+
+## Layout 🎨💻📱
+
+![Layout](./images/layout.png)

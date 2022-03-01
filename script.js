@@ -1,7 +1,7 @@
 let contador = document.getElementById('contador')
 let count = 0
 
-function adicionarCount() {
+function addCount() {
     count++
     contador.innerText = count
 }
